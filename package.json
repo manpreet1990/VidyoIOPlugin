@@ -1,0 +1,19 @@
+{
+  "name": "VidyoIOPlugin",
+  "version": "1.0.0",
+  "description": "\n This plugin allows your application to integrate video for conference all to using vidyo io  on Android, iOS and Windows devices.\n    ",
+  "cordova": {
+    "id": "com.vidyo.plugin",
+    "platforms": [
+      "ios",
+      "android"
+    ]
+  },
+  "keywords": [
+    "ecosystem:cordova",
+    "cordova-ios",
+    "cordova-android"
+  ],
+  "author": "",
+  "license": "MIT"
+}
